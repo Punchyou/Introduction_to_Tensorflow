@@ -61,3 +61,5 @@ model.evaluate(x_test, y_test)
 classifications = model.predict(x_test)
 print(classifications[0])
 print(y_test[0])
+
+# this is  test comment
